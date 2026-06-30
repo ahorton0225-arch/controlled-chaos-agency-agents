@@ -17,3 +17,13 @@ Use `project-management/project-manager-senior.md` for weekly priorities and own
 
 ## Issue escalation
 Escalate formula mismatch, adverse reaction report, repeated fulfillment defects, payment disputes, and public complaint threads. Use cautious language and preserve records.
+
+## Controlled Chaos operating risks to document
+- Formula/label mismatch between quiz output, production notes, and packing slip.
+- Customer selected caffeine tolerance that conflicts with support messages or later feedback.
+- Flavor, allergen, lot/batch, and shipping errors.
+- Public complaint involving claims, side effects, delayed orders, or formula confusion.
+- UGC or ad creative making unsupported supplement claims.
+
+## Minimum SOP fields
+Each SOP should include owner, trigger, inputs, steps, QC check, customer-facing message, escalation path, evidence to save, and review cadence.

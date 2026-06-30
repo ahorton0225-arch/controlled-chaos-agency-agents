@@ -17,3 +17,10 @@ Unify marketing, sales, website, support, operations, product research, coding, 
 
 ## What should wait
 Do not build formula automation, integrations, analytics pipelines, or dashboards until the creative and operating workflows are validated manually.
+
+## Readiness gates before app work
+- At least 30 generated ad concepts have been filmed or rejected with reasons.
+- The best 5 creative formats are known from actual posting or founder review.
+- Website objections and quiz questions are stable enough to template.
+- Support and fulfillment SOPs have real examples.
+- Data/privacy, supplement-claim review, and basic security requirements are written before storing customer quiz data.

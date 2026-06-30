@@ -18,3 +18,10 @@
 
 ## Output
 Return prioritized fixes, exact copy blocks, quiz-flow improvements, FAQ additions, CTA variants, and a before/after conversion rationale.
+
+## Controlled Chaos-specific website checks
+- Does the hero explain “custom AI-generated pre-workout” without sounding like fake AI hype?
+- Does the page show example quiz inputs: training style, workout split, goal, caffeine tolerance, flavor, and preference tradeoffs?
+- Does the product explanation distinguish formula logic from one-size-fits-all tubs?
+- Does the FAQ handle supplement trust, ingredient transparency, caffeine tolerance, flavor expectations, shipping, refunds/replacements, and whether the customer can reorder or adjust?
+- Does the copy avoid unsupported claims and use compliant phrasing around energy, focus, pump, endurance, and performance support?

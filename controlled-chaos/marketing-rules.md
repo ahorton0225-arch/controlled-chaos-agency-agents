@@ -20,3 +20,13 @@ Short, punchy, comment-friendly. Ask for workout split, stim tolerance, flavor c
 
 ## Influencer briefs
 Give creators a format and talking points, not a script prison. Require a real training scenario and a visible quiz/formula moment.
+
+## Minimum execution detail
+Every concept must include: location, props, first frame, speaking role, text overlay, product/quiz reveal moment, CTA, and why someone would comment.
+
+## Controlled Chaos angles to prefer
+- “Same scoop, different workouts” contrast.
+- Stim tolerance as a real decision, not a flex.
+- Pump/focus/endurance tradeoffs by training day.
+- Founder building formulas from comments.
+- Gym culture arguments that reveal product logic.

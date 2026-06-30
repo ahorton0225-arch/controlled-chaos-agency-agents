@@ -16,3 +16,11 @@ Black, red, gunmetal, premium, intense, gym-first. Voice is confident, sharp, cl
 3. Never let “AI” be the whole idea. AI is the engineering mechanism; the lifter’s training is the story.
 4. The CTA should be direct: **Build your formula**, **Take the quiz**, **Get your custom pre-workout**.
 5. Every creative concept needs a visible mechanism: skit, conflict, test, audit, draft, debate, challenge, breakdown, or demonstration.
+
+## Proof standards
+- Show the quiz/formula logic visually whenever possible: split → goal → tolerance → preference → formula priority.
+- Treat AI as an engineering assistant, not a miracle claim. The customer’s training data is the reason the formula changes.
+- If a claim cannot be shown, sourced, or phrased as support, cut it.
+
+## Controlled Chaos idea test
+A good idea should make a lifter say: “That is exactly my training situation.” If the idea only says “custom,” “AI,” or “better pre-workout,” it fails.

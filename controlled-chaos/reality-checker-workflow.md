@@ -27,3 +27,12 @@ If any idea scores below 4 on visual mechanism or hook interruption, rewrite it 
 
 ## Final approval standard
 Approved ideas must be specific, visual, executable with a phone, and tied to a real customer scenario.
+
+## Sales-logic rejection
+Reject any idea if it only earns attention but does not make the viewer understand why the quiz/formula system matters. The approved rewrite must include: customer profile, missing question, formula priority, and CTA.
+
+## Corny/corporate language ban
+Flag and rewrite phrases like “unlock your potential,” “take performance to the next level,” “game changer,” “revolutionary,” “premium solution,” “optimize your lifestyle,” and “fuel your journey.” Replace them with concrete gym language: late lift, leg day, top set, pump, crash, flavor, caffeine tolerance, split, and build your formula.
+
+## Filmability test
+If the concept cannot be filmed with a phone, gym, product tub, laptop/phone quiz screen, whiteboard/cards, and one or two people, mark it **too heavy** and simplify the format.

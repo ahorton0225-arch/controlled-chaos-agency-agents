@@ -21,3 +21,17 @@
 
 ## Language and content triggers
 Use gym-native language: leg day, top set, pump, stim, crash, dry scoop culture, PR, bro split, push/pull/legs, delts, back day, conditioning, late lift. Triggers: roasts, audits, tier lists, blind tests, fantasy drafts, founder experiments, coach whiteboards, courtroom trials, street interviews.
+
+## Quiz inputs that should appear in content
+- Training style: bodybuilding, powerbuilding, strength, athletics/conditioning, general gym performance.
+- Split: push/pull/legs, upper/lower, bro split, full body, sport practice plus lifts.
+- Session context: early morning, after class, late-night, heavy top set, high-volume pump work, conditioning.
+- Tolerance/preferences: low/medium/high stim, pump vs focus vs endurance emphasis, flavor preference, crash sensitivity.
+
+## Objection language to mirror
+- “AI sounds gimmicky.”
+- “I do not want some random proprietary blend.”
+- “High stim wrecks me.”
+- “Most pre-workouts taste like battery acid.”
+- “I train late; I cannot be wired until 3 a.m.”
+- “I need pump for hypertrophy, not just caffeine.”
