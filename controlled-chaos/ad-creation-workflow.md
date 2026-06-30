@@ -1,59 +1,79 @@
 # Controlled Chaos Ad Creation Workflow
 
+This is no longer a simple ad generator. It is an orchestration workflow that uses the repo like a creative agency council. Do not create scripts until the idea has survived the tournament, debate, scoring, and Reality Checker.
+
+## Required context files
+Load these before generating video ideas:
+- `brand-profile.md`
+- `target-customer.md`
+- `marketing-rules.md`
+- `banned-generic-ideas.md`
+- `full-agent-capability-map.md`
+- `multi-agent-video-council.md`
+- `video-idea-scoring-rubric.md`
+- `video-idea-tournament-workflow.md`
+- `agent-debate-rules.md`
+- `high-quality-input-template.md`
+- `reality-checker-workflow.md`
+
+If these files exist, also load them:
+- `creative-taste-calibration.md`
+- `boring-vs-strong-examples.md`
+- `viral-mechanic-library.md`
+
 ## Inputs to paste
-- Competitor ad description:
-- TikTok trend:
-- Product angle:
-- Customer objection:
-- Founder idea:
-- Customer comment:
-- Influencer/content example:
-
-## Agent sequence
-1. `design/design-brand-guardian.md`: confirm angle fits Controlled Chaos.
-2. `marketing/marketing-tiktok-strategist.md`: extract platform-native hooks and trend mechanics.
-3. `paid-media/paid-media-creative-strategist.md`: turn strongest organic ideas into paid-ad hypotheses.
-4. `marketing/marketing-short-video-editing-coach.md`: make each concept filmable and editable.
-5. `testing/testing-reality-checker.md`: reject generic, unsupported, or unfilmable ideas.
-
-## Required output
-Generate:
-- 20 hooks
-- 10 video concepts
-- 5 full scripts
-- 5 shot lists
-- 5 captions
-- 3 influencer briefs
-- 3 paid ad concepts
-- Top 5 ideas to film first
-
-## Required fields for every idea
-- Concept name
-- Hook
-- Core creative mechanism
-- Why it gets attention
-- Why it could get comments/shares
-- Why it could drive sales
-- Full script
-- Shot list
-- Text overlays
-- Caption
-- CTA
+Use `high-quality-input-template.md`. At minimum provide:
+- Goal
+- Target customer
+- Customer objection
+- Gym culture truth
+- Product truth
+- Founder belief
+- Competitor/reference example if available
+- What you hate about current ideas
+- Filming constraints
 - Props/location
-- Filming difficulty
-- Sales potential score /10
-- View potential score /10
-- Comment/share potential score /10
-- Why it fits Controlled Chaos
+- Tone preference
+- Banned ideas
+- CTA
 
-## Prompt to run
-Use `brand-profile.md`, `target-customer.md`, `marketing-rules.md`, `banned-generic-ideas.md`, and `creative-format-library.md`. Based on the pasted inputs, generate the required output. Do not use banned generic angles unless transformed into a named creative format with a visible mechanism, character, conflict, and simple filming plan. Prioritize phone-filmable gym content.
+## Orchestration sequence
+1. **Input Intake:** Normalize the brief into customer tension, product truth, filming constraints, and banned direction.
+2. **Customer Insight Pass:** Extract emotional trigger, hidden frustration, identity/status angle, objection, belief to challenge, and comment/share/buy motivations.
+3. **Creative Strategy Pass:** Create hook territories and platform angles; do not write scripts.
+4. **Entertainment Mechanism Pass:** Force every angle into a skit, game, debate, challenge, roast, public test, fake panel, gym argument, visual analogy, or comment-driven series.
+5. **Production Feasibility Pass:** Keep only ideas filmable with the available constraints.
+6. **Sales/Conversion Pass:** Confirm the idea explains why the quiz/formula matters and creates a reason to click.
+7. **Brand/Trust Pass:** Remove fake AI hype, corporate filler, and cringe founder language.
+8. **Compliance/Risk Pass:** Remove unsupported supplement, medical, fat-loss, PR, stimulant, or ingredient claims.
+9. **Reality Checker Pass:** Kill generic, lecture-like, scroll-past, non-filmable, or any-brand ideas.
+10. **Tournament:** Run `video-idea-tournament-workflow.md` before scripting.
+11. **Debate:** Apply `agent-debate-rules.md` to top ideas.
+12. **Score:** Use `video-idea-scoring-rubric.md` hard gates.
+13. **Final Synthesis:** Script only the top 3 ideas that survive.
+
+## Required output order
+1. Input summary
+2. Customer insight pass
+3. 50 raw ideas
+4. 30 rejected with reasons
+5. 20 improved ideas
+6. 10 rejected with reasons
+7. Scorecard for 10 survivors
+8. Top 5 selected
+9. Full scripts for top 3 only
+10. Filming packet recommendation only for ideas worth filming this week
 
 ## Hard rejection rules
-Before finalizing, delete or rewrite any idea where the hook could be swapped onto another supplement brand unchanged. Every surviving idea must name one of: a training split, workout day, gym scenario, caffeine tolerance, taste preference, pump/focus/endurance priority, customer objection, or creator format.
+- Do not create polished scripts for weak ideas.
+- Reject any idea that can be summarized as “your pre should match your workout.”
+- Reject any idea where the hook could be used by another pre-workout brand unchanged.
+- Reject any idea without a visible entertainment mechanism.
+- Reject any idea that uses AI as the whole hook instead of showing how quiz inputs change formula priorities.
+- Reject any idea with claim safety below 9/10.
 
 ## Claim-safety guardrail
-Use only restrained supplement language: “designed for,” “built around,” “supports,” “prioritizes,” “dialed for,” or “made to fit.” Do not claim guaranteed PRs, fat loss, medical outcomes, stimulant safety for everyone, or clinically proven results unless the user supplies approved substantiation.
+Use restrained supplement language: “designed for,” “built around,” “supports,” “prioritizes,” “dialed for,” and “based on your inputs.” Do not claim guaranteed PRs, fat loss, medical outcomes, universal stimulant safety, or clinically proven results unless approved substantiation is supplied.
 
 ## Sales logic requirement
-Each concept must answer this sentence: “This sells because the viewer sees that Controlled Chaos asks a question their current pre-workout never asked: ______.”
+Each survivor must answer: “This sells because the viewer sees that Controlled Chaos asks a question their current pre-workout never asked: ______.”
